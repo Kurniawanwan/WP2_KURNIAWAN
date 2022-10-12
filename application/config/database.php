@@ -77,7 +77,7 @@ $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
 <<<<<<< HEAD
-	'username' => 'root' ,
+	'username' => 'root',
 	'password' => '',
 	'database' => 'pustaka',
 =======
