@@ -55,8 +55,4 @@ method="post">
      </center>
 </body>
 
-<<<<<<< HEAD
 </html>
-=======
-</html>
->>>>>>> 94657604a16cde15988a643110da1b7538b2d7cd
